@@ -1,0 +1,18 @@
+gym
+venv
+*.iml
+experience
+.idea
+.DS_store
+*.pyc
+/gifs/**
+/plots/**
+/models/**
+temp.py
+reference_rbf.py
+temp.py
+/stats/**
+/stats\ backup/**
+/gifs\ backup/**
+/plots\ backup/**
+/models\ backup/**
