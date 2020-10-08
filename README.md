@@ -1,8 +1,3 @@
-# ECE 276A          : Project IV
-# Students          : A53279786,A53284020
-# Professor         : Prof. Nikolay Atanasov
-# Last change date  : June 12th, 2020
-
 Installation required:
 Tensorflow  : pip install --user tensorflow
 Keras       : pip install --user keras
