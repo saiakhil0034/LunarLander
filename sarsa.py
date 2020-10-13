@@ -2,10 +2,7 @@
 # -*- coding: utf-8 -*-
 
 ########################################################################
-# For project IV of ECE 276B,
-# Authors       : A53279786,A53284020
 # Last change   : June 11th,2020
-# Professor     : Prof. Nikolay Atanasov
 # Inspiration   : Q-value function approximation from https://github.com/dalmia/David-Silver-Reinforcement-learning/blob/master/Week%206%20-%20Value%20Function%20Approximations/Q-Learning%20with%20Value%20Function%20Approximation.py
 ########################################################################
 
